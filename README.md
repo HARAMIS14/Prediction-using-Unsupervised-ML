@@ -1,2 +1,9 @@
 # Prediction-using-Unsupervised-ML
-This simple project comes under Unsupervised Machine Learning and clusters different iris flower species based on factors like Sepal length, Sepal width, Petal length and Petal width. It uses K-means clustering algorithm for clustering.
+
+This project uses K-means algorithm clustering.
+
+Step 1: Import libraries like numpy, pandas, matplotlib and seaborn. Read the CSV data file. Calculate the Within cluster sum of squares, plot a elbow graph and select the number of clusters.
+
+Step 2: Fit the model and predict using Kmeans.
+
+Step 3: Plot a scatter graph for the clusters.
